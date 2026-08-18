@@ -1,0 +1,68 @@
+body {
+    
+    background-color:  #C1B69C  ; 
+    color: black;
+}
+
+h1 {
+    text-align:center;
+    background-color:#4A4947;
+    color: white;
+    padding:10px;
+    border: 5px solid #837E6E;
+    font-size: 50px;
+    
+    
+}
+
+.Media{
+    
+   
+    background-color: #D8D2C2;
+    padding: 40px;
+    border-top: 10px solid #4A4947;
+    border-bottom:10px solid #4A4947;
+    border-radius:20px;
+    margin:20px;
+    border-left:2px solid #4A4947;
+    border-right:2px solid #4A4947;
+}
+
+.Media img {
+    
+    
+    border: 5px solid #4A4947;
+    border-radius:100px;
+    
+    
+}
+
+.Media audio{
+    
+        
+    width: 400px;
+    height: 60px;
+    background-color:#756C55;
+    border: 5px solid #4A4947;
+    padding-bottom:5px ;
+}
+
+.Media video{
+    
+    
+    width: 300px;
+    height: 300px;
+    background-color:#756C55;
+    border: 5px solid #4A4947;
+    
+}
+
+h1, h3 {
+    font-family: 'Cinzel', serif;
+}
+
+p, audio, video {
+    font-family: 'Montserrat', sans-serif;
+}
+
+    
